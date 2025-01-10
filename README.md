@@ -1,4 +1,4 @@
-# SALES FORECASTING DASHBOARD
+![Screenshot 2025-01-10 143539](https://github.com/user-attachments/assets/560c6504-1f7d-48d5-8d77-e073b7d1cdd8)# SALES FORECASTING DASHBOARD
 
 
 
@@ -9,7 +9,9 @@ This dashboard helps the airlines understand their customers better. It helps th
 Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
 
 Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
-
+## This are the imnages:
+![Screenshot 2025-01-10 143539](https://github.com/user-attachments/assets/22454437-a5f1-49f9-be24-6431614cb1e3)
+![Screenshot 2025-01-10 184841](https://github.com/user-attachments/assets/915a2f05-b890-4807-966c-b8987ae71069)
 
 ### Steps followed 
 
